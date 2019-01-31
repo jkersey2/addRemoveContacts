@@ -1,8 +1,6 @@
 <?php
 
-/*
- * This project is the last example in the chapter on functions
- */
+
 
 require_once('contact_functions.php'); 
 
